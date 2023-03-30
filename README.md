@@ -13,11 +13,11 @@ speech. This exceptional paper contributed to the knowledge of phonetic variatio
 By replicating their analysis for the German equivalent eigentlich, the present paper
 aims to contribute to that understanding as well.
 The inspection of eigentlich shows a wide range of variability with almost 170 different
-variations ranging from mono- to trisyllabic forms. By means of mixed-effects
+variations, including mono-, di-, and trisyllabic forms. By means of mixed-effects
 modeling, the predictors of the word’s variation were analyzed. The tokens appear
-shorter in duration and form with a higher speech rate, when being followed
-by highly predictable words, and when being preceded by pauses or words of low
-surprisal. Feature sharing and low paradigmatic uncertainty of the preceding word
+shorter in duration and form with a higher speech rate, when being followed by
+highly predictable words, and when being preceded by pauses or words of low surprisal.
+Feature sharing and low paradigmatic uncertainty of the preceding word
 accompanied less reduced forms. Overall, the findings emphasize the importance of
 the context’s syntagmatic and paradigmatic probabilistic information for variation
 processes, which supports the Smooth Signal Redundancy Hypothesis by Aylett and
